@@ -3,4 +3,4 @@ title: "Welcome to my blog"
 date: 2019-01-20
 ---
 
-hello world... welcome to my blog!
+This is where i will be hosting my blog with github pages and jekyll!
